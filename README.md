@@ -37,4 +37,4 @@ Used Matplotlib and Seaborn to create visualizations:
 ## How to Run
 1. Clone the repository:  
    ```bash
-   (https://github.com/hamxashoaib/Loan-Data-Analysis-Python/)
+   git clone https://github.com/hamxashoaib/Loan-Data-Analysis-Python.git
